@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me  i will update soon
+- ⌨️ Interested in Machine learning 
 
 <!---
 karuna2000/karuna2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
