@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem solving and web development
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me  i will update soon
+- 📫 Reach me through email - karunay303@gmail.com
 - ⌨️ Interested in Machine learning 
 
 <!---
